@@ -18,7 +18,7 @@ Este é um projeto que permite aos usuários:
 * JavaScript
 
 ## Deploy 
-Você pode conferir o projeto [aqui](https://giulianasantana.github.io/ecommerce-javascript/) <br>
+Você pode conferir o projeto [aqui](https://the-mandalorian-page.vercel.app/) <br>
 
 ## Desenvolvido por:
 <img align="left" src="https://github.com/giulianasantana/giulianasantana/assets/133705620/e9906cee-397d-47d1-9d7b-9c4d6d2c78f0" width=110>
